@@ -2,4 +2,4 @@
 
 Repositório para a disciplina de GitHub do ciclo 12 do pretalab.
 Por : Isadora Maria
-"# pretalab-c12-projeto" 
+"pretalab-c12-projeto" 
